@@ -1,4 +1,4 @@
-# JoinUs-Freshers
+# JoinUs
 
 ## How to Apply?
 
