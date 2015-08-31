@@ -9,6 +9,16 @@
 
 3. Describe your ideal development enviornment
 
+**Social links**
+
+1. Link to your github account
+
+2. Link to your stackoverflow account
+
+3. Link to your Blog/Tumbr/Personal Website
+
+4. Link to you Linkedin Account
+
 **All the questions below are related to your development enviornment**
 
 4. Write the steps you need to do to find a `string` from a group of files
