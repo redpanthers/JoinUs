@@ -1,10 +1,5 @@
 # Questions
 
-***You may answer these questions in a single line or 300 words paragraph, commiting each question at a time as you answer them will earn you extra point***
-
-***Incase you have any doubt regarding the questions, feel free to create an [issue](https://github.com/redpanthers/JoinUs/issues)***
-
-
 1. Do you have your own personal computer?
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
@@ -44,4 +39,4 @@
 10. Programming question 2
 
   * Create a comand line twitter client, that lets you send tweet to your twitter profile form the command line.
-  * The code has to be written object oriented
+  * The code has to be object oriented
