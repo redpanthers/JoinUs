@@ -17,7 +17,7 @@
 
 2. Link to your stackoverflow account
 
-3. Link to your Blog/Tumbr/Personal Website
+3. Link to your Blog/Tumblr/Personal Website
 
 4. Link to you Linkedin Account
 
